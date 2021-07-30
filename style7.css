@@ -1,0 +1,62 @@
+header{
+    text-align: center;
+    font-weight: bold;
+    background-color: #35424a;
+    padding: 30px;
+    color: darkorange;
+    font-size: 26px;
+}
+
+body{
+    background-color: thistle;
+    margin: 0px;
+}
+
+table {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border: 1px solid;
+    background-color: #eee;
+}
+td {
+ border:0px;
+ padding: 35px;
+ font-size: 22px;
+ font-weight: bold;
+}
+th {
+border-bottom: 1px solid;
+background-color: #ddd;
+font-size: 25px;
+}
+
+input{
+    font-size: 20px;
+}
+
+.button{
+    padding: 10px 15px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+p3{
+    float: left;
+}
+.error{
+    color: #ff0400;
+}
+
+.error-txt{
+    color: red;
+}
+
+
+footer{
+    padding: 30px;
+    font-size: 20px;
+    color:#ffffff;
+    background-color: #e8491d;
+    text-align: center;
+    font-weight: bold;
+}
